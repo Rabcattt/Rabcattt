@@ -58,8 +58,8 @@ I believe that robust testing and insightful visualization are crucial for desig
 ## <img src="https://emojis.slackmojis.com/emojis/images/1643510257/11262/stats.gif" width="25"> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabcattt&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_rank=true" alt="Rabcattt's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabcattt&layout=compact&theme=radical&hide_title=true" alt="Rabcattt's Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabcattt&show_icons=true&theme=radical&count_private=true" alt="Rabcattt's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabcattt&layout=compact&theme=radical" alt="Rabcattt's Top Langs" />
 </p>
 
 ---
