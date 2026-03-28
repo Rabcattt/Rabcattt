@@ -1,9 +1,5 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1581023758/7612/robot.gif" width="30"> Welcome to Rabcattt's Profile!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00cfff&random=false&width=550&lines=Current: Agent R%26D Engineer;Building the Future with AI;Previously: Data Viz %26 Test Automation;Coffee %26 Cat Lover ☕+🐱" alt="Typing SVG" />
-</p>
-
 ---
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1643510255/11261/about.gif" width="25"> About Me
@@ -51,15 +47,6 @@ I believe that robust testing and insightful visualization are crucial for desig
   <img src="https://img.shields.io/badge/Playwright-grey?style=flat&logo=playwright&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Selenium-grey?style=flat&logo=selenium&logoColor=green" />
   <img src="https://img.shields.io/badge/Appium-grey?style=flat&logo=appium&logoColor=blue" />
-</p>
-
----
-
-## <img src="https://emojis.slackmojis.com/emojis/images/1643510257/11262/stats.gif" width="25"> GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabcattt&show_icons=true&theme=radical&count_private=true" alt="Rabcattt's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabcattt&layout=compact&theme=radical" alt="Rabcattt's Top Langs" />
 </p>
 
 ---
